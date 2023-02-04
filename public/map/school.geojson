@@ -8,8 +8,8 @@
                 "marker-color": "#fd0d0d",
                 "marker-size": "medium",
                 "foto_sekolah": "",
-                "alamat_sekolah": "Purwokerto",
-                "Website": "http://www.sma-negeri1.sch.id"
+                "alamat_sekolah": "Jl. Jend. Gatot Subroto 73 Purwokerto - Jawa Tengah",
+                "Website": "sman1purwokerto.sch.id"
             },
             "geometry": {
                 "coordinates": [109.23724237349234, -7.420861104954028],
@@ -21,7 +21,10 @@
             "nama_sekolah": "SMA Negeri 2 Purwokerto",
             "properties": {
                 "marker-color": "#e00000",
-                "marker-size": "medium"
+                "marker-size": "medium",
+                "foto_sekolah": "",
+                "alamat_sekolah": "Jl. Jend. Gatot Subroto No.69, Purwokerto",
+                "Website": "sman2-purwokerto.sch.id"
             },
             "geometry": {
                 "coordinates": [109.23584553879596, -7.419884881596772],
@@ -34,7 +37,8 @@
             "properties": {
                 "marker-color": "#ff0000",
                 "marker-size": "medium",
-                "Phone": "028238232320"
+                "alamat_sekolah": "Jalan Gereja No.20",
+                "Website": "sman5purwokerto.sch.id"
             },
             "geometry": {
                 "coordinates": [109.23426632730775, -7.418978792308735],
@@ -46,7 +50,9 @@
             "nama_sekolah": "SMA Negeri 4 Purwokerto",
             "properties": {
                 "marker-color": "#ff0000",
-                "marker-size": "medium"
+                "marker-size": "medium",
+                "alamat_sekolah": "Jl. Letkol Isdiman No 9 Purwokerto, Kabupaten Banyumas, Jawa Tengah",
+                "Website": "sma4purwokerto.sch.id"
             },
             "geometry": {
                 "coordinates": [109.24517273016289, -7.420913098985267],
@@ -55,10 +61,12 @@
         },
         {
             "type": "Feature",
-            "nama_sekolah": "SMA Muhammadiyah Purwokerto",
+            "nama_sekolah": "SMA Muhammadiyah 1 Purwokerto",
             "properties": {
                 "marker-color": "#f00000",
-                "marker-size": "medium"
+                "marker-size": "medium",
+                "alamat_sekolah": "Jl. Dr. Angka No.1, Karangjengkol, Sokanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53115",
+                "Website": "smamuh1purwokerto.sch.id"
             },
             "geometry": {
                 "coordinates": [109.23150410660162, -7.415722470923157],
@@ -70,7 +78,9 @@
             "nama_sekolah": "SMA Bruderan Purwokerto",
             "properties": {
                 "marker-color": "#ff0000",
-                "marker-size": "medium"
+                "marker-size": "medium",
+                "alamat_sekolah": "Jl. Jenderal Gatot Subroto No. 63",
+                "Website": "smabruderanpurwokerto.sch.id"
             },
             "geometry": {
                 "coordinates": [109.23213075811026, -7.419279037531098],
