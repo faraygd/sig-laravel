@@ -11,7 +11,10 @@
 
 - Clone Repository
 - Composer Install
-- For Running : " php artisan serve "
+- make .env
+- copy data .env.example to .env
+- php artisan key:generate
+- php artisan serve
 - Enjoy 
 
 ## License
