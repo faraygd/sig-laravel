@@ -12,53 +12,68 @@
                 "Website": "http://www.sma-negeri1.sch.id"
             },
             "geometry": {
-                "coordinates": [
-                    109.23724237349234,
-                    -7.420861104954028
-                ],
+                "coordinates": [109.23724237349234, -7.420861104954028],
                 "type": "Point"
             }
         },
         {
             "type": "Feature",
+            "nama_sekolah": "SMA Negeri 2 Purwokerto",
             "properties": {
                 "marker-color": "#e00000",
                 "marker-size": "medium"
             },
             "geometry": {
-                "coordinates": [
-                    109.23584553879596,
-                    -7.419884881596772
-                ],
+                "coordinates": [109.23584553879596, -7.419884881596772],
                 "type": "Point"
             }
         },
         {
             "type": "Feature",
+            "nama_sekolah": "SMA Negeri 5 Purwokerto",
             "properties": {
                 "marker-color": "#ff0000",
                 "marker-size": "medium",
                 "Phone": "028238232320"
             },
             "geometry": {
-                "coordinates": [
-                    109.23426632730775,
-                    -7.418978792308735
-                ],
+                "coordinates": [109.23426632730775, -7.418978792308735],
                 "type": "Point"
             }
         },
         {
             "type": "Feature",
+            "nama_sekolah": "SMA Negeri 4 Purwokerto",
             "properties": {
                 "marker-color": "#ff0000",
                 "marker-size": "medium"
             },
             "geometry": {
-                "coordinates": [
-                    109.24517273016289,
-                    -7.420913098985267
-                ],
+                "coordinates": [109.24517273016289, -7.420913098985267],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "nama_sekolah": "SMA Muhammadiyah Purwokerto",
+            "properties": {
+                "marker-color": "#f00000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "coordinates": [109.23150410660162, -7.415722470923157],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "nama_sekolah": "SMA Bruderan Purwokerto",
+            "properties": {
+                "marker-color": "#ff0000",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "coordinates": [109.23213075811026, -7.419279037531098],
                 "type": "Point"
             }
         }
