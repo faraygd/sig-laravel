@@ -13,7 +13,4 @@ use App\Http\Controllers\PemetaanController;
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
-Route::get('pemetaan-sekolah', [PemetaanController::class,'index']);
+Route::get('/', [PemetaanController::class, 'index']);
